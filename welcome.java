@@ -6,6 +6,7 @@ public class welcome {
         int x =10; int y = 20;
         int sum = x+y;
         System.out.println(sum);
+        System.out.println("hellllo");
 
         
     }
